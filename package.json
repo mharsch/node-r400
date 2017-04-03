@@ -1,0 +1,23 @@
+{
+  "name": "r400",
+  "version": "0.0.1",
+  "description": "communicate with Rinstrum R400 series scale indicators",
+  "main": "r400.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mharsch/node-r400.git"
+  },
+  "keywords": [
+    "rinstrum",
+    "scale"
+  ],
+  "author": "Mike Harsch <mike@harschsystems>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mharsch/node-r400/issues"
+  },
+  "homepage": "https://github.com/mharsch/node-r400#readme"
+}
